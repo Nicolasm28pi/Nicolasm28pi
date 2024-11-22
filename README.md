@@ -15,6 +15,9 @@ Soy estudiante de Ingeniería en Energías y me apasiona la programación, las m
 - Modelado Matemático
 - LaTeX
 - Análisis de Datos
+- Inteligencia Artificial Generativa
+- Redes Neuronales
+- Modelos de Lenguaje Grande (LLM)
 
 ## Contacto
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/efrainriivera)](https://twitter.com/efrainriivera)
